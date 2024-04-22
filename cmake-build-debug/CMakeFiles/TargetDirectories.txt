@@ -1,0 +1,3 @@
+/Users/prodigy/Desktop/STUDIA/Programowanie obiektowe/grawzycie/cmake-build-debug/CMakeFiles/grawzycie.dir
+/Users/prodigy/Desktop/STUDIA/Programowanie obiektowe/grawzycie/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/prodigy/Desktop/STUDIA/Programowanie obiektowe/grawzycie/cmake-build-debug/CMakeFiles/rebuild_cache.dir
